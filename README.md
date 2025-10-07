@@ -64,7 +64,7 @@ Create the database
 Open phpMyAdmin (http://localhost/phpmyadmin
 )
 
-Create a database named kigali_house_connect
+Create a database named khc
 
 Import the provided SQL file from the database folder (if available)
 
@@ -75,16 +75,13 @@ Edit the config.php or equivalent file to set:
 $host = "localhost";
 $user = "root";
 $password = "";
-$dbname = "kigali_house_connect";
+$dbname = "khc";
 
 
 Run the project
 
 Open your browser and navigate to: http://localhost/kigali-house-connect
 
-📸 Preview
-
-(Add screenshots or demo link here)
 
 👨‍💻 Author
 
